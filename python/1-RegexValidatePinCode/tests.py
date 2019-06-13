@@ -1,4 +1,4 @@
-# 1. Regex Validate Pin Code Unit Tests
+#Regex Validate Pin Code Unit Tests
 
 from main import validate_pin
 import codewars_test as Test
