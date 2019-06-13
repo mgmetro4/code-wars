@@ -1,6 +1,7 @@
 # 1. Regex Validate Pin Code Unit Tests
 
-import unittest
+from main import validate_pin
+import codewars_test as Test
 
 Test.describe("validate_pin")
 
